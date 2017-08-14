@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MSM",
+  "name": "Mo' Stuff's Mod",
+  "description": "Mod that adds Stuffs",
+  "version": "${0.1}",
+  "mcversion": "${1.12}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["D1Games"],
+  "credits": "D1Games, and the fans of this mod, for suggesting, and Harry's Tech Reviews for helping",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
